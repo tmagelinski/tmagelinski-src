@@ -24,6 +24,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ""
+  date_end: "2021-06-14"
+  date_start: "2021-09-10"
+  description: "Studying how social signals can be leveraged to imrpove search and recommendation for podcasts through heterogeneous social embeddings of content, creators, and users."
+  organization: "Spotify Research"
+  organization_url: https://www.research.atspotify.com/
+  title: "Research Scientist Internship"
+  url: ""
+- certificate_url: ""
   date_end: ""
   date_start: "2020-08-01"
   description: "Funded fellowship to research network-based methods for detecting and understanding coordination on Twitter."

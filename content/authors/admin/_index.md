@@ -14,13 +14,13 @@ organizations:
 #  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the dynamics of social networks, community detection, and coordinated information operations.
+bio: My research interests include the dynamics of social networks, heterogeneous graph emebdding, and coordinated information operations.
 
 # Interests to show in About widget
 interests:
 - Dynamic Community Detection
-- Heterogeneous Networks
-- Heterogeneous Graph Embedding
+- Heterogeneous Networks and Embeddings
+- Responsible AI
 - Detection of Coordination on Social Media
 
 # Education to show in About widget
@@ -68,6 +68,6 @@ email: "tmagelin@andrew.cmu.edu"
 highlight_name: false
 ---
 
-I am a PhD Student in Societal Computing in SCS at CMU. I'm a Knight Fellow in the IDeaS lab and a member of the CASOS lab. I am broadly interested in the dynamics of social networks. I'm currently working on developing methods from Network Science and ML to find coordinated activity on Twitter.
+I am a PhD Student in Societal Computing in SCS at CMU,  Knight Fellow in the IDeaS lab, and a member of the CASOS lab. I am broadly interested in the dynamics of social networks, drawing on methods from Network Science and Machine Learning. I'm currently tudying online communication networks to uncover coordinated operations. This summer I interned at Spotify research, where I was developing methods to leverage social information for podcast search and recommendation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/magelinski_resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
